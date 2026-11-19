@@ -3,7 +3,8 @@ message: "If you use this repository, please cite the associated article and the
 title: "State-aware DFT+U calculations for Xe/Kr separation in Hofmann frameworks"
 abstract: "Source data, VASP text outputs, parsers, numerical checks, and figure-generation code for a study of self-consistent occupation-matrix states in Co(pyz)[M(CN)4] and Co3-squarate."
 authors:
-  - name: "Hofmann OMC project contributors"
+  - family-names: "Fang"
+    given-names: "Tianxiang"
 version: 1.1.0
 date-released: 2026-11-20
 doi: "10.5281/zenodo.24377761"
