@@ -6,6 +6,7 @@ authors:
   - name: "Hofmann OMC project contributors"
 version: 1.1.0
 date-released: 2026-11-20
+doi: "10.5281/zenodo.24377761"
 license: MIT
 repository-code: "https://github.com/NSNJ1/hofmann-omc-xe-kr"
 keywords:

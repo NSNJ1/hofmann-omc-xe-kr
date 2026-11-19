@@ -10,6 +10,9 @@ It is that a converged calculation selects one electronic solution, and the
 same state-aware treatment must be applied to both the guest-loaded and
 guest-free cells before a meV-scale adsorption comparison is interpreted.
 
+The archived v1.1.0 release is available at
+[10.5281/zenodo.24377761](https://doi.org/10.5281/zenodo.24377761).
+
 ## What is included
 
 - Processed numerical tables used by the manuscript and the main plotting
@@ -121,9 +124,7 @@ data tables, structures, and reduced density data are released under CC BY
 4.0, subject to the upstream rights of the published parent structures. See
 [LICENSE](LICENSE) and [DATA_LICENSE.md](DATA_LICENSE.md).
 
-Citation metadata is provided in `CITATION.cff`. The archived release and its
-DOI will be listed there and in the manuscript's Data and Code Availability
-statement.
+Citation metadata is provided in `CITATION.cff`.
 
 ## Contact
 

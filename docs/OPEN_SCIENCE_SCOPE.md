@@ -12,6 +12,11 @@ calculation workspace. Large restart/volumetric files and licensed software
 are omitted, while the numerical tables, selected endpoint outputs, state
 matrices, and figure-generation code needed to audit the claims are retained.
 
+The version-specific DOI is
+[10.5281/zenodo.24377761](https://doi.org/10.5281/zenodo.24377761). The
+concept DOI, which resolves to future versions, is
+[10.5281/zenodo.24377760](https://doi.org/10.5281/zenodo.24377760).
+
 The full v1.0.0 workspace remains in the local archive
 `E:\git\hofmann-omc-xe-kr-full-v1.0.0` for provenance and deeper follow-up.
 

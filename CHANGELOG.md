@@ -8,6 +8,10 @@
 - Retained six normalized Co3-squarate endpoints and representative Hofmann
   input decks.
 - Kept the complete v1.0.0 workspace only in the local `E:\git` archive.
+- Published the source/data archive in Zenodo under
+  `10.5281/zenodo.24377761`.
+- Deferred high-resolution TIFF figures because figure production is not yet
+  final.
 
 ## 1.0.0 - 2026-11-20
 
