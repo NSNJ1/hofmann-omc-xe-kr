@@ -1,0 +1,10 @@
+quantity,value,unit,note
+Co1 spin-up Frobenius,0.0010246950765959177,dimensionless,new minus 701
+Co2 spin-up Frobenius,0.0010246950765959177,dimensionless,new minus 701
+Co3 spin-up Frobenius,0.005969087032369352,dimensionless,new minus 701
+Co1 spin-down Frobenius,0.012888366847665395,dimensionless,new minus 701
+Co2 spin-down Frobenius,0.012888366847665395,dimensionless,new minus 701
+Co3 spin-down Frobenius,1.2870049222905093,dimensionless,new minus 701
+joint spin-up Frobenius,0.006142475071174468,dimensionless,all three Co
+joint spin-down Frobenius,1.2871339829248547,dimensionless,all three Co
+new-minus-701 energy gap,6.17729,meV,4x4x4 / 650 eV

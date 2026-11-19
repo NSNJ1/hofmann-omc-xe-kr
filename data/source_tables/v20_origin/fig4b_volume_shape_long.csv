@@ -1,0 +1,11 @@
+series_order,series,point_order,point,V_scale,gas,Eads_meV,note
+1,Ni-cell shape,1,V097,0.97,Xe,-332.9,Ni shape
+1,Ni-cell shape,2,V100,1.00,Xe,-331.7,Ni shape
+1,Ni-cell shape,3,V103,1.03,Xe,-329.1,Ni shape
+1,Ni-cell shape,4,V105,1.05,Xe,-325.4,Ni shape
+1,Ni-cell shape,1,V097,0.97,Kr,-260.4,Ni shape
+1,Ni-cell shape,2,V100,1.00,Kr,-257.0,Ni shape
+1,Ni-cell shape,3,V103,1.03,Kr,-254.2,Ni shape
+1,Ni-cell shape,4,V105,1.05,Kr,-252.7,Ni shape
+2,Pd-cell anchor,1,Pd_cell,1.00,Xe,-308.3,Pd cell shape; not part of the volume interpolation
+2,Pd-cell anchor,1,Pd_cell,1.00,Kr,-240.1,Pd cell shape; not part of the volume interpolation

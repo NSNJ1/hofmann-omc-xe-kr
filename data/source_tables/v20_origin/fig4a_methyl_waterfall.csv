@@ -1,0 +1,7 @@
+pair_order,pair,term_order,term,start_meV,delta_meV,end_meV,net_meV,interpretation
+1,Sx,1,frozen methyl host,0,56.8,56.8,29.1,contact and dispersion move S toward Kr
+1,Sx,2,framework relaxation,56.8,-27.7,29.1,29.1,host relaxation opposes part of the frozen shift
+1,Sx,3,net DeltaS_CH3,0,29.1,29.1,29.1,observable net response
+2,beta,1,frozen methyl host,0,38.5,38.5,29.1,contact and dispersion move S toward Kr
+2,beta,2,framework relaxation,38.5,-9.4,29.1,29.1,host relaxation opposes part of the frozen shift
+2,beta,3,net DeltaS_CH3,0,29.1,29.1,29.1,observable net response

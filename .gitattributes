@@ -1,0 +1,17 @@
+* text=auto
+
+*.cff text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
+requirements.txt text eol=lf
+
+# Calculation inputs, source tables, and generated figure files are checksummed.
+# Preserve their exact bytes instead of applying host-specific line endings.
+data/** -text
+figures/** -text
+manifest_sha256*.txt -text

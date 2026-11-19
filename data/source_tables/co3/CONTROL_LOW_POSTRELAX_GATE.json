@@ -1,0 +1,110 @@
+{
+  "status": "fail_low_control_branch_identity",
+  "started_utc": "2026-10-24T16:31:06Z",
+  "completed_utc": "2026-10-24T18:02:44Z",
+  "elapsed_seconds": 5498,
+  "settings": {
+    "kmesh": "4x4x4 Gamma",
+    "encut_eV": 650,
+    "occext": false,
+    "solver": "default",
+    "istart": 0,
+    "icharg": 2,
+    "nsw": 0,
+    "ibrion": -1,
+    "isif": 2,
+    "ediff_eV": 1e-6,
+    "ediifg_eV_per_A": 1e-5
+  },
+  "geometry": {
+    "source": "control_lowbranch_acceptance1/CONTCAR",
+    "target_poscar_hash_sha256": "103ce77fb7bc6fddbce47520421092b15f1e74a132a4f3d51590803d934938d3",
+    "source_contcar_hash_sha256": "103ce77fb7bc6fddbce47520421092b15f1e74a132a4f3d51590803d934938d3",
+    "byte_identical": true
+  },
+  "scf": {
+    "e0_eV": -162.39335486,
+    "total_magnetization_uB": 9.0000009,
+    "ediff_reached": true,
+    "nelm_abort": false
+  },
+  "forces": {
+    "max_eV_per_A": 0.07179385,
+    "rms_eV_per_A": 0.03839780,
+    "geometry_force_converged_at_0p05": false
+  },
+  "coordination": {
+    "all_three_Co_are_CoO6": true,
+    "max_of_six_nearest_Co_O_A": {
+      "Co1": 2.1693848945,
+      "Co2": 2.1693803793,
+      "Co3": 2.1005746277
+    }
+  },
+  "local_d_moments_uB": {
+    "Co1": 2.8025,
+    "Co2": 2.8025,
+    "Co3": 2.8029
+  },
+  "matrix_comparison": {
+    "versus_low_control_333_600": {
+      "joint_up_frobenius": 0.0027676705006195483,
+      "joint_down_frobenius": 0.6556221930349826,
+      "max_eigenvalue_delta": 0.0024183855741055083,
+      "identity_preserved": false
+    },
+    "versus_acceptance_like_control_333_600": {
+      "joint_up_frobenius": 0.0007348469228349516,
+      "joint_down_frobenius": 0.09954747611064786,
+      "max_eigenvalue_delta": 0.0007358503093031904,
+      "interpretation": "closest branch; exact high-setting assignment not tested"
+    },
+    "versus_new_444_650": {
+      "joint_up_frobenius": 0.008766983517721517,
+      "joint_down_frobenius": 1.9255871909627982,
+      "max_eigenvalue_delta": 0.00521272386893068
+    },
+    "versus_701_444_650": {
+      "joint_up_frobenius": 0.006261788881781352,
+      "joint_down_frobenius": 1.4290491384133717,
+      "max_eigenvalue_delta": 0.0055132435722020645
+    }
+  },
+  "energy_context_eV": {
+    "new_333_600": -162.39054423,
+    "ref701_333_600": -162.38444943,
+    "low_control_333_600": -162.35755068,
+    "acceptance_like_control_333_600": -162.35074203,
+    "new_444_650": -162.43334766,
+    "ref701_444_650": -162.42717037,
+    "control_target_444_650": -162.39335486
+  },
+  "shift_600_to_650_meV": {
+    "new": -42.80343,
+    "ref701": -42.72094,
+    "acceptance_like_control": -42.61283,
+    "nominal_low_control_target": -35.80418
+  },
+  "verified_high_setting_gap_meV": {
+    "new_minus_ref701": -6.17729
+  },
+  "blocked_high_setting_claim": "Do not report a matched new/701/low-control three-state ranking at 4x4x4/650 because low-control identity was not preserved.",
+  "next_action": "Stop new VASP work; consolidate the merged JCTC-manuscript evidence. A state-preserving target-matrix control is a future experiment requiring explicit approval.",
+  "restart_cleanup": {
+    "removed_after_hash_and_process_check": true,
+    "files": {
+      "WAVECAR": {
+        "size_bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "CHGCAR": {
+        "size_bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "CHG": {
+        "size_bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  }
+}

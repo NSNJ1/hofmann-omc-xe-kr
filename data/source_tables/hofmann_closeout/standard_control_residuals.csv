@@ -1,0 +1,10 @@
+metal,gas,control_energy_eV,expected_v9_eV,residual_meV,outcar
+Ni,Kr,-146.18377574,-146.1837755,-0.0002399999914359796,remote:/jctc_standard_controls_20261021/jobs/18_control_ni_kr/control/OUTCAR
+Ni,Xe,-146.24200286,-146.24200286,0.0,remote:/jctc_standard_controls_20261021/jobs/18_control_ni_xe/control/OUTCAR
+Pd,Kr,-146.01921599,-146.02427991,5.063919999997779,remote:/jctc_standard_controls_20261021/jobs/18_control_pd_kr/control/OUTCAR
+Pd,Xe,-146.08543989,-146.08543897,-0.000919999990856013,remote:/jctc_standard_controls_20261021/jobs/18_control_pd_xe/control/OUTCAR
+Pt,Kr,-147.79347219,-147.79884593,5.37374000001023,remote:/jctc_standard_controls_20261021/jobs/18_control_pt_kr/control/OUTCAR
+Pt,Xe,-147.84867001,-147.8486706,0.0005899999848679727,remote:/jctc_standard_controls_20261021/jobs/18_control_pt_xe/control/OUTCAR
+Ni,bare,-145.92130395,-145.92130381,-0.00013999999737279722,remote:/jctc_standard_bare_20261021/jobs/18_bare_control_ni/control/OUTCAR
+Pd,bare,-145.74406091,-145.74405884,-0.002069999993636884,remote:/jctc_standard_bare_20261021/jobs/18_bare_control_pd/control/OUTCAR
+Pt,bare,-147.53216674,-147.53216996,0.003219999996417755,remote:/jctc_standard_bare_20261021/jobs/18_bare_control_pt/control/OUTCAR

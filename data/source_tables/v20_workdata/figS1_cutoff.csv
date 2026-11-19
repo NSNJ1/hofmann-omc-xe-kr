@@ -1,0 +1,6 @@
+﻿Setting,Delta_vs_production_meV,Eads_meV,Family
+500,-1.1,-311.8,beta
+550,-1.2,-312.0,beta
+600,0.0,-310.7,production_baseline_not_printed
+650,-0.2,-310.9,beta
+700,0.5,-310.2,beta

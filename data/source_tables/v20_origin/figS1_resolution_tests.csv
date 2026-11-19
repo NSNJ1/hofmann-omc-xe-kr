@@ -1,0 +1,10 @@
+panel,panel_order,setting,setting_type,Eads_meV,delta_vs_production_meV,family,note
+cutoff,1,500,ENCUT_eV,-311.8,-1.1,beta,matrix fingerprint available
+cutoff,1,550,ENCUT_eV,-312.0,-1.2,beta,matrix fingerprint available
+cutoff,1,600_production,ENCUT_eV,-310.7,0.0,production_baseline_not_printed,no LDAUPRINT at production baseline
+cutoff,1,650,ENCUT_eV,-310.9,-0.2,beta,matrix fingerprint available
+cutoff,1,700,ENCUT_eV,-310.2,0.5,beta,matrix fingerprint available
+kmesh,2,2x2x2,k_mesh,-297.7,13.0,alpha,coarse mesh changes both energy and family
+kmesh,2,3x3x3,k_mesh,-311.5,-0.7,alpha,energy close but family differs from production
+kmesh,2,4x4x4_production,k_mesh,-310.7,0.0,beta,production mesh
+kmesh,2,5x5x5,k_mesh,-310.7,0.0,alpha,energy flat but family differs from production

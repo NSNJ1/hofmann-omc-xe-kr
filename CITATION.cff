@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and the archived software release."
+title: "State-aware DFT+U calculations for Xe/Kr separation in Hofmann frameworks"
+abstract: "Source data, VASP text outputs, parsers, numerical checks, and figure-generation code for a study of self-consistent occupation-matrix states in Co(pyz)[M(CN)4] and Co3-squarate."
+authors:
+  - name: "Hofmann OMC project contributors"
+version: 1.1.0
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/NSNJ1/hofmann-omc-xe-kr"
+keywords:
+  - DFT+U
+  - occupation matrix control
+  - Xe/Kr separation
+  - metal-organic framework
+  - VASP

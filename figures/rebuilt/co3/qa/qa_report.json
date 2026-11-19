@@ -1,0 +1,64 @@
+{
+  "files": [
+    {
+      "stem": "Mechanism_2_spin_resolved_state_identity",
+      "sha256": {
+        "svg": "ca1c4a5796adda8be4d7b5a33fc1fff61f77923a722d007914eb217f27e032cf",
+        "pdf": "4eeb23f05a20e0fc4afffa589d8553a7304293f253cf8c74b3bd07af86dc59d0",
+        "png": "8ad4a758ed624d68e9eaf3c12b8f687920af54b80e4bab674552793089cb998f",
+        "tiff": "4dc6dfa924fcba73a3e115ba54187ec96374f636185ac705f37aec3733b15411"
+      }
+    },
+    {
+      "stem": "Mechanism_3_spin_resolved_dos",
+      "sha256": {
+        "svg": "b7c458899ffde1ccd537ac0133f810496cd662d5e5e36748cf1dba46942fb7f2",
+        "pdf": "592f600fda2ad94153a5e1c46837d795eacc5e1bd1cd2f745bf15f2c5a6723fe",
+        "png": "98ac05c953f329d7c531afb133ff1a91ea5012b42a915fe4b4467d24b04ad9e6",
+        "tiff": "6f4ce918d036dccab6e2a61cb7b9894ce5f387718f6ed7006b093fe0efd66abe"
+      }
+    }
+  ],
+  "checks": [
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_2_spin_resolved_state_identity.svg",
+      "check": "svg_nonempty",
+      "pass": true
+    },
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_2_spin_resolved_state_identity.pdf",
+      "check": "pdf_nonempty",
+      "pass": true
+    },
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_2_spin_resolved_state_identity.png",
+      "check": "png_nonempty",
+      "pass": true
+    },
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_2_spin_resolved_state_identity.tiff",
+      "check": "tiff_nonempty",
+      "pass": true
+    },
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_3_spin_resolved_dos.svg",
+      "check": "svg_nonempty",
+      "pass": true
+    },
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_3_spin_resolved_dos.pdf",
+      "check": "pdf_nonempty",
+      "pass": true
+    },
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_3_spin_resolved_dos.png",
+      "check": "png_nonempty",
+      "pass": true
+    },
+    {
+      "file": "E:\\git\\hofmann-omc-xe-kr-final2\\figures\\rebuilt\\co3\\Mechanism_3_spin_resolved_dos.tiff",
+      "check": "tiff_nonempty",
+      "pass": true
+    }
+  ]
+}

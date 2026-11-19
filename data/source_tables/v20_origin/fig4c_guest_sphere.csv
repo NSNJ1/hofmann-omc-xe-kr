@@ -1,0 +1,5 @@
+comparison_group,quantity_order,quantity,value_e,meaning
+reference magnitude,1,Xe sphere total,1.020,gas difference integrated in the 2 A sphere
+reference magnitude,2,Kr sphere total,1.050,gas difference integrated in the 2 A sphere
+small perturbation,1,CH3 effect on guest sphere,0.040,CH3 minus H
+small perturbation,2,metal variation in guest sphere,0.002,maximum across the three metals

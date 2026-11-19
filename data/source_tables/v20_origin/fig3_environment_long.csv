@@ -1,0 +1,19 @@
+environment_order,environment,display_label,metal,gas,Eads_meV,S_meV,probe_role
+1,H,H,Pd,Xe,-329.0,-71.1,unsubstituted reference
+1,H,H,Pd,Kr,-257.8,-71.1,unsubstituted reference
+1,H,H,Pt,Xe,-304.1,-59.8,unsubstituted reference
+1,H,H,Pt,Kr,-244.3,-59.8,unsubstituted reference
+1,H,H,Ni,Xe,-308.3,-68.2,unsubstituted reference
+1,H,H,Ni,Kr,-240.1,-68.2,unsubstituted reference
+2,CH3,CH3,Pd,Xe,-317.6,-42.0,contact and dispersion perturbation
+2,CH3,CH3,Pd,Kr,-275.6,-42.0,contact and dispersion perturbation
+2,CH3,CH3,Pt,Xe,-304.5,-11.2,contact and dispersion perturbation
+2,CH3,CH3,Pt,Kr,-293.3,-11.2,contact and dispersion perturbation
+2,CH3,CH3,Ni,Xe,-310.2,-53.9,contact and dispersion perturbation
+2,CH3,CH3,Ni,Kr,-256.3,-53.9,contact and dispersion perturbation
+3,F4,F4,Pd,Xe,-318.1,-56.4,high-loading strain boundary
+3,F4,F4,Pd,Kr,-261.7,-56.4,high-loading strain boundary
+3,F4,F4,Pt,Xe,-293.7,-45.5,high-loading strain boundary
+3,F4,F4,Pt,Kr,-248.2,-45.5,high-loading strain boundary
+3,F4,F4,Ni,Xe,-314.1,-65.4,high-loading strain boundary
+3,F4,F4,Ni,Kr,-248.7,-65.4,high-loading strain boundary

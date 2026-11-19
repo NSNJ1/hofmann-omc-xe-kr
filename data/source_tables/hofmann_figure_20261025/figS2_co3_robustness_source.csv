@@ -1,0 +1,11 @@
+panel,label,metric,value
+a,"fixed 3x3x3, 600",new_minus_701_gap_meV,10.67375000
+a,"fixed 4x4x4, 600",new_minus_701_gap_meV,10.67575000
+a,"fixed 3x3x3, 650",new_minus_701_gap_meV,10.64581000
+a,"H-only 3x3x3, 600",new_minus_701_gap_meV,12.20228000
+a,"full-ion 3x3x3, 600",new_minus_701_gap_meV,6.09480000
+a,"full-ion 4x4x4, 650",new_minus_701_gap_meV,6.17729000
+b,low-control,max_eigenvalue_delta,0.0024183856
+b,acceptance-like,max_eigenvalue_delta,0.0007358503
+b,new 4x4x4/650,max_eigenvalue_delta,0.0052127239
+b,701 4x4x4/650,max_eigenvalue_delta,0.0055132436

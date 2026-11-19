@@ -1,0 +1,37 @@
+group,metric,value,unit,note
+gas_xe,integral_net_e,-1.78857e-08,e,∫Δρ dV（应≈0 自检）
+gas_xe,integral_abs_e,2.13398,e,∫|Δρ| dV
+gas_kr,integral_net_e,-3.69573e-08,e,∫Δρ dV（应≈0 自检）
+gas_kr,integral_abs_e,3.02194,e,∫|Δρ| dV
+sub_ch3,integral_net_e,6,e,∫Δρ dV（应≈0 自检）
+sub_ch3,integral_abs_e,34.3039,e,∫|Δρ| dV
+metal_pt,integral_net_e,-1.59858e-07,e,∫Δρ dV（应≈0 自检）
+metal_pt,integral_abs_e,2.24214,e,∫|Δρ| dV
+metal_ni,integral_net_e,6,e,∫Δρ dV（应≈0 自检）
+metal_ni,integral_abs_e,10.4769,e,∫|Δρ| dV
+metal_pt_bare,integral_net_e,-1.60245e-07,e,∫Δρ dV（应≈0 自检）
+metal_pt_bare,integral_abs_e,3.11086,e,∫|Δρ| dV
+metal_ni_bare,integral_net_e,6,e,∫Δρ dV（应≈0 自检）
+metal_ni_bare,integral_abs_e,9.61055,e,∫|Δρ| dV
+sub_on_gas,integral_net_e,6.49886e-08,e,Δ(气体诱导重排)=CH3−H；应≈0
+sub_on_gas,integral_abs_e,2.44029,e,Δ(气体诱导重排)=CH3−H
+gas_xe,sphere_r2A_net_e,1.02038,e,Xe 周围 2.0 Å
+gas_xe,sphere_r2A_abs_e,1.0967,e,Xe 周围 2.0 Å
+gas_xe,value_at_atom_e_A3,-0.144202,e/Å3,最近格点
+gas_kr,sphere_r2A_net_e,1.05319,e,Kr 周围 2.0 Å
+gas_kr,sphere_r2A_abs_e,1.13834,e,Kr 周围 2.0 Å
+gas_kr,value_at_atom_e_A3,-0.210466,e/Å3,最近格点
+sub_ch3,methyl_C_sphere_r1p8_net_e,5.551,e,甲基 C 周围 1.8 Å
+sub_ch3,methyl_C_sphere_r1p8_abs_e,6.79985,e,甲基 C 周围 1.8 Å
+metal_pt,metal_sphere_r3A_net_e,-0.0173421,e,Pd 周围 3.0 Å
+metal_pt,metal_sphere_r3A_abs_e,2.21202,e,Pd 周围 3.0 Å
+metal_ni,metal_sphere_r3A_net_e,6.02093,e,Pd 周围 3.0 Å
+metal_ni,metal_sphere_r3A_abs_e,9.58316,e,Pd 周围 3.0 Å
+metal_ni,metal_core_sphere_r0.6A_net_e,7.3784,e,Ni_pv 3p 半芯诊断（r=0.6 Å）
+metal_ni,metal_core_sphere_r0.8A_net_e,7.62774,e,Ni_pv 3p 半芯诊断（r=0.8 Å）
+metal_ni,metal_core_sphere_r1.0A_net_e,7.06798,e,Ni_pv 3p 半芯诊断（r=1.0 Å）
+metal_pt_bare,metal_sphere_r3A_net_e,-0.0219879,e,Pd 周围 3.0 Å
+metal_pt_bare,metal_sphere_r3A_abs_e,2.21365,e,Pd 周围 3.0 Å
+metal_ni_bare,metal_sphere_r3A_net_e,6.01223,e,Pd 周围 3.0 Å
+metal_ni_bare,metal_sphere_r3A_abs_e,9.59034,e,Pd 周围 3.0 Å
+sub_on_gas,Xe_sphere_r2A_net_e,0.0383337,e,CH3 vs H：客体球内净变化（H 基准 +1.0204 e）

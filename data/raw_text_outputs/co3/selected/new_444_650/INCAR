@@ -1,0 +1,38 @@
+SYSTEM = Co3 full-relax production OMC stage2 new_full_k444_e650
+GGA = PE
+ENCUT = 650
+PREC = Accurate
+ISMEAR = 0
+SIGMA = 0.05
+EDIFF = 1E-06
+NELM = 600
+NSW = 0
+IBRION = -1
+ISIF = 2
+LREAL = Auto
+NCORE = 2
+KPAR = 4
+IVDW = 11
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+! Set both to .TRUE. for a bounded relax that may need state-preserving continuation.
+LASPH = .TRUE.
+LMAXMIX = 6
+ISPIN = 2
+NUPDOWN = 9
+ISYM = 0
+LDAU = .TRUE.
+LDAUTYPE = 2
+LDAUL = 2 -1 -1 -1
+LDAUU = 6.4 0.0 0.0 0.0
+LDAUJ = 0.0 0.0 0.0 0.0
+LDAUPRINT = 2
+OCCEXT = 0
+ISTART = 1
+ICHARG = 1
+
+
+ALGO = All
+ISEARCH = 1
+
+MAGMOM = 3 3 3 20*0
